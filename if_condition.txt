@@ -1,0 +1,23 @@
+Light ON
+Light OFF
+
+Motor OFF
+Motor ON
+
+
+Arm1 ON
+Arm1 OFF
+Arm2 ON
+Arm2 OFF
+
+direction UP
+direction Down
+speed 0
+
+direction left
+direction right
+direction reverse
+direction forward
+
+Camera ON
+Camera OFF
